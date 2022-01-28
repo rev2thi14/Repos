@@ -1,0 +1,14 @@
+C:\Users\ganga\source\repos\CarAssemble\CarAssemble\bin\Debug\netcoreapp3.1\CarAssemble.exe
+C:\Users\ganga\source\repos\CarAssemble\CarAssemble\bin\Debug\netcoreapp3.1\CarAssemble.deps.json
+C:\Users\ganga\source\repos\CarAssemble\CarAssemble\bin\Debug\netcoreapp3.1\CarAssemble.runtimeconfig.json
+C:\Users\ganga\source\repos\CarAssemble\CarAssemble\bin\Debug\netcoreapp3.1\CarAssemble.runtimeconfig.dev.json
+C:\Users\ganga\source\repos\CarAssemble\CarAssemble\bin\Debug\netcoreapp3.1\CarAssemble.dll
+C:\Users\ganga\source\repos\CarAssemble\CarAssemble\bin\Debug\netcoreapp3.1\CarAssemble.pdb
+C:\Users\ganga\source\repos\CarAssemble\CarAssemble\obj\Debug\netcoreapp3.1\CarAssemble.csproj.AssemblyReference.cache
+C:\Users\ganga\source\repos\CarAssemble\CarAssemble\obj\Debug\netcoreapp3.1\CarAssemble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganga\source\repos\CarAssemble\CarAssemble\obj\Debug\netcoreapp3.1\CarAssemble.AssemblyInfoInputs.cache
+C:\Users\ganga\source\repos\CarAssemble\CarAssemble\obj\Debug\netcoreapp3.1\CarAssemble.AssemblyInfo.cs
+C:\Users\ganga\source\repos\CarAssemble\CarAssemble\obj\Debug\netcoreapp3.1\CarAssemble.csproj.CoreCompileInputs.cache
+C:\Users\ganga\source\repos\CarAssemble\CarAssemble\obj\Debug\netcoreapp3.1\CarAssemble.dll
+C:\Users\ganga\source\repos\CarAssemble\CarAssemble\obj\Debug\netcoreapp3.1\CarAssemble.pdb
+C:\Users\ganga\source\repos\CarAssemble\CarAssemble\obj\Debug\netcoreapp3.1\CarAssemble.genruntimeconfig.cache

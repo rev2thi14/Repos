@@ -1,0 +1,4 @@
+﻿Rebuild started...
+1>------ Rebuild All started: Project: ApplicationEntity, Configuration: Debug Any CPU ------
+1>  ApplicationEntity -> C:\Users\ganga\source\repos\Application\ApplicationEntity\bin\Debug\ApplicationEntity.dll
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========

@@ -1,0 +1,5 @@
+C:\Users\ganga\source\repos\Project2\Project2\obj\Debug\netcoreapp3.1\Project2.csproj.AssemblyReference.cache
+C:\Users\ganga\source\repos\Project2\Project2\obj\Debug\netcoreapp3.1\Project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganga\source\repos\Project2\Project2\obj\Debug\netcoreapp3.1\Project2.AssemblyInfoInputs.cache
+C:\Users\ganga\source\repos\Project2\Project2\obj\Debug\netcoreapp3.1\Project2.AssemblyInfo.cs
+C:\Users\ganga\source\repos\Project2\Project2\obj\Debug\netcoreapp3.1\Project2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+C:\Users\ganga\source\repos\TutorialApplication\Website\bin\Debug\Website.dll
+C:\Users\ganga\source\repos\TutorialApplication\Website\bin\Debug\Website.pdb
+C:\Users\ganga\source\repos\TutorialApplication\Website\bin\Debug\WebsiteData.dll
+C:\Users\ganga\source\repos\TutorialApplication\Website\bin\Debug\WebsiteData.pdb
+C:\Users\ganga\source\repos\TutorialApplication\Website\obj\Debug\Website.csproj.AssemblyReference.cache
+C:\Users\ganga\source\repos\TutorialApplication\Website\obj\Debug\Website.csproj.CoreCompileInputs.cache
+C:\Users\ganga\source\repos\TutorialApplication\Website\obj\Debug\Website.csproj.CopyComplete
+C:\Users\ganga\source\repos\TutorialApplication\Website\obj\Debug\Website.dll
+C:\Users\ganga\source\repos\TutorialApplication\Website\obj\Debug\Website.pdb

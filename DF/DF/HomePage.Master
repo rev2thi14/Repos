@@ -1,0 +1,27 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="HomePage.master.cs" Inherits="DF.HomePage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>
+        AdminloginPage
+    </title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+     <h2> AdminloginPage</h2>
+    <h2>login</h2>
+    
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <a href="AdminHomePage.aspx">HomePage</a>
+            <br />
+            <a href="login.aspx">loginpage</a>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

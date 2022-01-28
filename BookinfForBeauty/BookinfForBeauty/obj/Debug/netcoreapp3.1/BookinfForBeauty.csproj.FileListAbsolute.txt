@@ -1,0 +1,14 @@
+C:\Users\ganga\source\repos\BookinfForBeauty\BookinfForBeauty\obj\Debug\netcoreapp3.1\BookinfForBeauty.csproj.AssemblyReference.cache
+C:\Users\ganga\source\repos\BookinfForBeauty\BookinfForBeauty\obj\Debug\netcoreapp3.1\BookinfForBeauty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganga\source\repos\BookinfForBeauty\BookinfForBeauty\obj\Debug\netcoreapp3.1\BookinfForBeauty.AssemblyInfoInputs.cache
+C:\Users\ganga\source\repos\BookinfForBeauty\BookinfForBeauty\obj\Debug\netcoreapp3.1\BookinfForBeauty.AssemblyInfo.cs
+C:\Users\ganga\source\repos\BookinfForBeauty\BookinfForBeauty\obj\Debug\netcoreapp3.1\BookinfForBeauty.csproj.CoreCompileInputs.cache
+C:\Users\ganga\source\repos\BookinfForBeauty\BookinfForBeauty\bin\Debug\netcoreapp3.1\BookinfForBeauty.exe
+C:\Users\ganga\source\repos\BookinfForBeauty\BookinfForBeauty\bin\Debug\netcoreapp3.1\BookinfForBeauty.deps.json
+C:\Users\ganga\source\repos\BookinfForBeauty\BookinfForBeauty\bin\Debug\netcoreapp3.1\BookinfForBeauty.runtimeconfig.json
+C:\Users\ganga\source\repos\BookinfForBeauty\BookinfForBeauty\bin\Debug\netcoreapp3.1\BookinfForBeauty.runtimeconfig.dev.json
+C:\Users\ganga\source\repos\BookinfForBeauty\BookinfForBeauty\bin\Debug\netcoreapp3.1\BookinfForBeauty.dll
+C:\Users\ganga\source\repos\BookinfForBeauty\BookinfForBeauty\bin\Debug\netcoreapp3.1\BookinfForBeauty.pdb
+C:\Users\ganga\source\repos\BookinfForBeauty\BookinfForBeauty\obj\Debug\netcoreapp3.1\BookinfForBeauty.dll
+C:\Users\ganga\source\repos\BookinfForBeauty\BookinfForBeauty\obj\Debug\netcoreapp3.1\BookinfForBeauty.pdb
+C:\Users\ganga\source\repos\BookinfForBeauty\BookinfForBeauty\obj\Debug\netcoreapp3.1\BookinfForBeauty.genruntimeconfig.cache

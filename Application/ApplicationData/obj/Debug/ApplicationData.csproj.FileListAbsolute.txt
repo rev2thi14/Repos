@@ -1,0 +1,9 @@
+C:\Users\ganga\source\repos\Application\ApplicationData\bin\Debug\ApplicationData.dll
+C:\Users\ganga\source\repos\Application\ApplicationData\bin\Debug\ApplicationData.pdb
+C:\Users\ganga\source\repos\Application\ApplicationData\obj\Debug\ApplicationData.csproj.CoreCompileInputs.cache
+C:\Users\ganga\source\repos\Application\ApplicationData\obj\Debug\ApplicationData.dll
+C:\Users\ganga\source\repos\Application\ApplicationData\obj\Debug\ApplicationData.pdb
+C:\Users\ganga\source\repos\Application\ApplicationData\bin\Debug\ApplicationEntity.dll
+C:\Users\ganga\source\repos\Application\ApplicationData\bin\Debug\ApplicationEntity.pdb
+C:\Users\ganga\source\repos\Application\ApplicationData\obj\Debug\ApplicationData.csproj.AssemblyReference.cache
+C:\Users\ganga\source\repos\Application\ApplicationData\obj\Debug\ApplicationData.csproj.CopyComplete

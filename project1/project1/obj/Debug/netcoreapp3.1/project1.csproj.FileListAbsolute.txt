@@ -1,0 +1,14 @@
+C:\Users\ganga\source\repos\project1\project1\bin\Debug\netcoreapp3.1\project1.exe
+C:\Users\ganga\source\repos\project1\project1\bin\Debug\netcoreapp3.1\project1.deps.json
+C:\Users\ganga\source\repos\project1\project1\bin\Debug\netcoreapp3.1\project1.runtimeconfig.json
+C:\Users\ganga\source\repos\project1\project1\bin\Debug\netcoreapp3.1\project1.runtimeconfig.dev.json
+C:\Users\ganga\source\repos\project1\project1\bin\Debug\netcoreapp3.1\project1.dll
+C:\Users\ganga\source\repos\project1\project1\bin\Debug\netcoreapp3.1\project1.pdb
+C:\Users\ganga\source\repos\project1\project1\obj\Debug\netcoreapp3.1\project1.csproj.AssemblyReference.cache
+C:\Users\ganga\source\repos\project1\project1\obj\Debug\netcoreapp3.1\project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganga\source\repos\project1\project1\obj\Debug\netcoreapp3.1\project1.AssemblyInfoInputs.cache
+C:\Users\ganga\source\repos\project1\project1\obj\Debug\netcoreapp3.1\project1.AssemblyInfo.cs
+C:\Users\ganga\source\repos\project1\project1\obj\Debug\netcoreapp3.1\project1.csproj.CoreCompileInputs.cache
+C:\Users\ganga\source\repos\project1\project1\obj\Debug\netcoreapp3.1\project1.dll
+C:\Users\ganga\source\repos\project1\project1\obj\Debug\netcoreapp3.1\project1.pdb
+C:\Users\ganga\source\repos\project1\project1\obj\Debug\netcoreapp3.1\project1.genruntimeconfig.cache
